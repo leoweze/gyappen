@@ -1,0 +1,19 @@
+{
+  "name": "gyappen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gyappen.index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoweze/gyappen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoweze/gyappen/issues"
+  },
+  "homepage": "https://github.com/leoweze/gyappen#readme"
+}
